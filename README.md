@@ -1,5 +1,3 @@
-# My Learning Resources
-
 ## Top picks
 * **Neural networks** from [neuralnetworksanddeeplearning.com](http://neuralnetworksanddeeplearning.com/) and [its github repo](https://github.com/mnielsen/neural-networks-and-deep-learning)
 * **Game Theory** by Ben Polak [Youtube video](https://www.youtube.com/playlist?list=PL6EF60E1027E1A10B) and [open yale course contents](https://oyc.yale.edu/economics/econ-159)
