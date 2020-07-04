@@ -16,7 +16,7 @@
 
 ## YouTube Channels
 * [CGP Grey](https://www.youtube.com/user/CGPGrey/) and all of its top videos ❤️
-* [Overly Sarcastic Production](https://www.youtube.com/user/RedEyesTakeWarning) and their playlists [1](https://www.youtube.com/playlist?list=PLDb22nlVXGgfwG1qbOtNgu897E_ky_8To), [2](https://www.youtube.com/playlist?list=PLDb22nlVXGgdPqE7Hs4F2oI7GBTmLhh7k) \& [3](https://www.youtube.com/playlist?list=PLDb22nlVXGgejkqtviaUIqKZvOe8bMb86)
+* [Overly Sarcastic Production](https://www.youtube.com/user/RedEyesTakeWarning) and their playlists [1](https://www.youtube.com/playlist?list=PLDb22nlVXGgfwG1qbOtNgu897E_ky_8To), [2](https://www.youtube.com/playlist?list=PLDb22nlVXGgdPqE7Hs4F2oI7GBTmLhh7k) and [3](https://www.youtube.com/playlist?list=PLDb22nlVXGgejkqtviaUIqKZvOe8bMb86)
 * [RealLifeLore](https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww) for its weird questions and [strange maps playlist](https://www.youtube.com/playlist?list=PLyXor-IbFvGR37eL0G4eSwO9GczeUcY89)
 * [Half as Interesting](https://www.youtube.com/channel/UCuCkxoKLYO_EQ2GeFtbM_bw)
 * [OverSimplified](https://www.youtube.com/user/Webzwithaz) specially for its [war history](https://www.youtube.com/playlist?list=PLQw_XrMliWVYSc66IpEnrr1MxCxy0H1SH)
