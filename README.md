@@ -5,7 +5,7 @@
 * **Reinforcement learning** from [RL course by David Silva](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 * **Machine Learning** by Andrew Ng  [Youtube playlist](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) for more detailed and slightly challenging content. [Coursera](https://www.coursera.org/learn/machine-learning) for basic understanding and Programming Assignments
 * **Big data and Hadoop** [a basic introduction to big data by Udemy](https://www.udemy.com/course/hadoop-big-data-must-see-introduction-to-big-data/)
-* [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) and [other Karpath's blog](https://karpathy.github.io/)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) and [other Karpathy's blog](https://karpathy.github.io/)
 
 
 ## Others
