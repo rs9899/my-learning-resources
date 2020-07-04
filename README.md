@@ -5,6 +5,7 @@
 * **Reinforcement learning** from [RL course by David Silva](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
 * **Graphical Model**, here are [some slides](https://www.cse.iitb.ac.in/~sunita/talks/graphical.pdf) as a part of a course I did.
 * **Binary Exploitation** by [LiveOverFlow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+* **Financial Markets** on [Coursera](https://www.coursera.org/learn/financial-markets-global)
 
 
 ## Papers
@@ -13,6 +14,7 @@
 * [Single Shot Detector](https://arxiv.org/abs/1512.02325)
 * [Neural ODE](https://arxiv.org/abs/1806.07366)
 * [Deep Exponential Families](https://arxiv.org/abs/1411.2581)
+* [BERT](https://arxiv.org/abs/1810.04805) and [Glove](https://nlp.stanford.edu/projects/glove/)
 
 ## YouTube Channels
 * [CGP Grey](https://www.youtube.com/user/CGPGrey/) and all of its top videos ❤️
