@@ -32,4 +32,6 @@
 * [**Kernel PCA**](http://www.mitpressjournals.org/doi/10.1162/089976698300017467) by Schölkopf and Smola
 * **Recurrent Network** training difficulty by Yoshua Bengio,Razvan Pascanu, Tomas Mikolov [here](https://arxiv.org/pdf/1211.5063)
 
+> This page is made by [Rupesh](https://rupesh.info). You can check out [the blog](https://rupesh.info/blog)
+
 
